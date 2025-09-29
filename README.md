@@ -33,7 +33,10 @@ This profile showcases my main projects in **AI + Web3** and **Reverse Engineeri
   Simulated browser environment for JS reverse engineering and frontend code analysis.  
 - **[ReverseLab](https://github.com/ReStack3/ReverseLab)**  
   Comprehensive reverse engineering lab with sample analyses and script collections.
-
+- **[MobileReverseHub](https://github.com/ReStack3/MobileReverseHub)**  
+  This repository mainly includes a collection of Android reverse engineering related practice projects. 
+- **[BinStructParser](https://github.com/ReStack3/BinStructParser)**  
+  BinStructParser is a tool designed to analyze, parse, and repair binary executable files, including DEX (Android), ELF (Linux), and PE (Windows) formats. 
 ---
 
 ## 🔗 Note
