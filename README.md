@@ -8,7 +8,7 @@ This profile showcases my main projects in **AI + Web3** and **Reverse Engineeri
 ## 🚀 AI + Web3 Projects
 
 ### Quantitative Trading & Prediction
-- **[Crypto-QuantSeer](https://github.com/ReStack3/Crypto-QuantSeer)**  
+- **[OmniQuant](https://github.com/ReStack3/OmniQuant)**  
   Low-latency, high-performance C++ trading server using ML/DL to predict CEX market trends.
 
 ### On-Chain Monitoring & Arbitrage
