@@ -14,7 +14,7 @@ This profile showcases my main projects in **AI + Web3** and **Reverse Engineeri
 ### On-Chain Monitoring & Arbitrage
 - **[Crypto-ChainSentinel](https://github.com/ReStack3/Crypto-ChainSentinel)**  
   Real-time monitoring of whales, contracts, DeFi protocols, and holdings; chain scanning, parsing, and signal detection.  
-- **[OmniQuant](https://github.com/ReStack3/OmniQuant)**  
+- **[Crypto-ProfitReaper](https://github.com/ReStack3/Crypto-ProfitReaper)**  
   Automated on-chain smart contract arbitrage execution responding to ChainSentinel signals.
 
 ### Frontend Visualization & Sentiment Risk Control
