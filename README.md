@@ -20,7 +20,7 @@ This profile showcases my main projects in **AI + Web3** and **Reverse Engineeri
 ### Frontend Visualization & Sentiment Risk Control
 - **[Crypto-Dashboard](https://github.com/ReStack3/Crypto-Dashboard)**  
   Frontend platform integrating data and visual panels from all sub-projects.  
-- **[Crypto-MediaGuard](https://github.com/ReStack3/Crypto-MediaGuard)**  
+- **[OmniSight](https://github.com/ReStack3/OmniSight)**  
   Collects and analyzes off-chain news media and community comments with AI sentiment analysis for risk control.
 
 ---
