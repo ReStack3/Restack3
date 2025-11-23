@@ -12,7 +12,7 @@ This profile showcases my main projects in **AI + Web3** and **Reverse Engineeri
   Low-latency, high-performance C++ trading server using ML/DL to predict CEX market trends.
 
 ### On-Chain Monitoring & Arbitrage
-- **[Crypto-ChainSentinel](https://github.com/ReStack3/Crypto-ChainSentinel)**  
+- **[ChainSentinel](https://github.com/ReStack3/ChainSentinel)**  
   Real-time monitoring of whales, contracts, DeFi protocols, and holdings; chain scanning, parsing, and signal detection.  
 - **[Crypto-ProfitReaper](https://github.com/ReStack3/Crypto-ProfitReaper)**  
   Automated on-chain smart contract arbitrage execution responding to ChainSentinel signals.
